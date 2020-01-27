@@ -6,11 +6,11 @@ import Content from './content.js'
 function App() {
   return (
     <div className="App">
-      <div className="Container">
+      <div className="main">
         <Header />
         <Content />
         <Footer />
-      </div>
+        </div>
     </div>
   );
 }
